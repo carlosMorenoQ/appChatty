@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "appchatty-fd012",
+    "chatty": "appchatty-fd012"
+  },
+  "targets": {}
+}
